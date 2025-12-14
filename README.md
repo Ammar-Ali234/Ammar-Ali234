@@ -5,7 +5,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ammar-ali234&label=Profile%20views&color=0e75b6&style=flat)
-
+## View my Protfolio: [My Portfolio](https://ammarali.lovable.app)
 ## 🔭 What I'm Working On
 
 - Currently diving deep into **Action Analysis in Computer Vision** – empowering machines to understand and recognize human actions in real-time!
